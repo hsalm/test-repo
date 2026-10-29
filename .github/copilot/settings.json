@@ -15,6 +15,7 @@
   },
   "enabledPlugins": {
     "bifrost-starter@bifrost": true,
+    "team-bifrost-plugin@bifrost": true,
     "advanced-security@copilot-plugins": true
   }
 }
