@@ -5,9 +5,16 @@
         "source": "github",
         "repo": "TeleplanGlobe/bifrost-plugin-marketplace"
       }
+    },
+    "copilot-plugins": {
+      "source": {
+        "source": "github",
+        "repo": "github/copilot-plugins"
+      }
     }
   },
   "enabledPlugins": {
-    "bifrost-starter@bifrost": true
+    "bifrost-starter@bifrost": true,
+    "advanced-security@copilot-plugins": true
   }
 }
