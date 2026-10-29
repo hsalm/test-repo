@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "bifrost": {
+      "source": {
+        "source": "github",
+        "repo": "TeleplanGlobe/bifrost-plugin-marketplace"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "bifrost-starter@bifrost": true
+  }
+}
